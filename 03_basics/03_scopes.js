@@ -1,18 +1,18 @@
 // // NESTED SCOPES
 
-// function one(){
-//     const userName = "Arnab"
+function one(){
+    const userName = "Arnab"
     
 
-//     function two() {
-//         const website = "YOU-TUBE"
-//         console.log(userName)
-//         }
-//         // console.log(website);
-//         two();
-// }
+    function two() {
+        const website = "YOU-TUBE"
+        console.log(userName)
+        }
+        // console.log(website);
+        two();
+}
 
-// one();
+one();
 
 //NESTED SCOPES in IF AND ELSE
 
