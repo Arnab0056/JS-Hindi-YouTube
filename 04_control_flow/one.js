@@ -29,17 +29,17 @@
 //         console.log("less than 900"); 
 //     }else {console.log("yipee");
 //     }
-const userLoggedIn = true
-const debitCard = true
-const loggedInFromGoogle = false
-const loggedInFromEmail = true
+// const userLoggedIn = true
+// const debitCard = true
+// const loggedInFromGoogle = false
+// const loggedInFromEmail = true
 
-if (userLoggedIn && debitCard) {
-    console.log("Allow to buy course")
+// if (userLoggedIn && debitCard) {
+//     console.log("Allow to buy course")
     
-}
-if (loggedInFromGoogle || loggedInFromEmail) {
-    console.log("User logged In");
+// }
+// if (loggedInFromGoogle || loggedInFromEmail) {
+//     console.log("User logged In");
     
-}
+// }
     
